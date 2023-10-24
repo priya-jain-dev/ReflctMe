@@ -3,7 +3,7 @@ Basic Mood Tracker PWA app
 
 ## Features
 
-----First iteration ----- 
+----First iteration (24 oct 2023 - 4 oct 2023)----- 
 
 1. User can record there mood
 2. Write about it in notion format
