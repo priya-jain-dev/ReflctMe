@@ -10,3 +10,9 @@ Basic Mood Tracker PWA app
 3. Auth flow using no password auth
 4. View list of moods in list format
 5. Mobile and Tablet friendly design
+
+
+
+## colors
+
+https://www.realtimecolors.com/?colors=f1f2f9-010313-f7d940-222430-eb550a&fonts=Poppins-Poppins
