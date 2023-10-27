@@ -1,9 +1,6 @@
 "use client";
 import { cn } from "@/lib/utils";
-import Image from "next/image";
 import React, { useState } from "react";
-import { Icons } from "./ui/icons";
-import { mood } from "@/interface/mood";
 import { MoodItem } from "./mood-item";
 import { moodItems } from "@/lib/data";
 
