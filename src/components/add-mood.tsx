@@ -1,7 +1,7 @@
 "use client";
 import { cn } from "@/lib/utils";
 import React, { useState } from "react";
-import { MoodItem } from "./mood-item";
+import MoodItem from "./mood-item";
 import { moodItems } from "@/lib/data";
 
 export const AddMood = () => {
