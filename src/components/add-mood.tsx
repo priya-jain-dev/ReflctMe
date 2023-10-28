@@ -8,14 +8,14 @@ export const AddMood = () => {
   const [selectedMoodIndex, setSelectedMoodIndex] = useState<number>(2);
   const moodItems: mood[] = [
     {
-      top_bg_color: "bg-[#FFFBED]",
-      bg_color: "bg-[#FDDD6F]",
-      heading_text_color: "text-[#664F00]",
-      heading: "Good",
+      top_bg_color: "bg-[#FFF0F3]",
+      bg_color: "bg-[#FFA7BC]",
+      heading_text_color: "text-[#4D3238]",
+      heading: "Spectacular",
       images: [
-        "/images/good-1.png",
-        "/images/good-2.png",
-        "/images/good-3.png",
+        "/images/spectacular-1.png",
+        "/images/spectacular-2.png",
+        "/images/spectacular-3.png",
       ],
       animation: "loop",
     },
@@ -32,17 +32,18 @@ export const AddMood = () => {
       animation: "loop",
     },
     {
-      top_bg_color: "bg-[#FFF0F3]",
-      bg_color: "bg-[#FFA7BC]",
-      heading_text_color: "text-[#4D3238]",
-      heading: "Spectacular",
+      top_bg_color: "bg-[#FFFBED]",
+      bg_color: "bg-[#FDDD6F]",
+      heading_text_color: "text-[#664F00]",
+      heading: "Good",
       images: [
-        "/images/spectacular-1.png",
-        "/images/spectacular-2.png",
-        "/images/spectacular-3.png",
+        "/images/good-1.png",
+        "/images/good-2.png",
+        "/images/good-3.png",
       ],
       animation: "loop",
     },
+
     {
       top_bg_color: "bg-[#EDFEFF]",
       bg_color: "bg-[#A1E7EB]",

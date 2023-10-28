@@ -1,3 +1,4 @@
+"use client";
 import { mood } from "@/interface/mood";
 import { cn } from "@/lib/utils";
 import { Icons } from "./ui/icons";
